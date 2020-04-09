@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 abcdefg
+=======
+abcdefg
+dfj
+ooo
+123456
+qweqweq
+78957456
+
+>>>>>>> e3ff50b... add new one line
